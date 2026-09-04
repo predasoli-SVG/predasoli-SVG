@@ -3,13 +3,7 @@
 <!-- ================================================= -->
 <!-- BANNER -->
 
-<div align="center">
-
-<img src="![Uploading Gemini_Generated_Image_o056txo056txo056.jpg…]()
-" width="100%">
-
-</div>
-
+<img width="1313" height="800" alt="Gemini_Generated_Image_o056txo056txo056" src="https://github.com/user-attachments/assets/7d06c999-8bfa-4f77-805e-4924449c2ddc" />
 <!-- APRESENTAÇÃO -->
 
 # 👋 Olá! Eu sou o Enzo Predasoli
