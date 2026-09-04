@@ -3,7 +3,8 @@
 <!-- ================================================= -->
 <!-- BANNER -->
 
-<img width="1313" height="800" alt="Gemini_Generated_Image_o056txo056txo056" src="https://github.com/user-attachments/assets/7d06c999-8bfa-4f77-805e-4924449c2ddc" />
+<img width="<img width="1607" height="979" alt="ChatGPT Image 4 de set  de 2026, 09_21_24" src="https://github.com/user-attachments/assets/6a7bfd56-62aa-44ee-ae81-c4f583d4fe87" />
+" src="" />
 <!-- APRESENTAÇÃO -->
 
 # 👋 Olá! Eu sou o Enzo Predasoli
