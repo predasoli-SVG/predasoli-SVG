@@ -106,7 +106,9 @@ Aqui estão alguns dos projetos que desenvolvi durante minha formação em Desen
 
 ---
 
-<!-- ================================================= -->
-<!--                    🎯 OBJETIVOS                  -->
-<!-- ================================================= -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/predasoli-SVG/predasoli-SVG/output/github-contribution-grid-snake.svg">
+
+</div>
 
