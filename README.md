@@ -108,7 +108,7 @@ Aqui estão alguns dos projetos que desenvolvi durante minha formação em Desen
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/predasoli-SVG/predasoli-SVG/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/predasoli-SVG/predasoli-SVG/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="Snake animation">
 
 </div>
 
