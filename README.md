@@ -5,10 +5,11 @@
 
 <div align="center">
 
-<img src="<img width="1607" height="979" alt="ChatGPT Image 4 de set  de 2026, 09_21_24" src="https://github.com/user-attachments/assets/5a2aaac1-ce9e-4f20-b17a-c5d4cab027c6" />
-" width="100%">
+<img src="https://github.com/user-attachments/assets/5a2aaac1-ce9e-4f20-b17a-c5d4cab027c6" width="100%">
 
 </div>
+
+# 👋 Olá! Eu sou o Enzo Predasoli
 <!-- APRESENTAÇÃO -->
 
 # 👋 Olá! Eu sou o Enzo Predasoli
