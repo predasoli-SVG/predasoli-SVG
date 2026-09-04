@@ -9,7 +9,7 @@
 
 </div>
 
-# 👋 Olá! Eu sou o Enzo Predasoli
+#  Olá! Eu sou o Enzo Predasoli
 
 ...
 
