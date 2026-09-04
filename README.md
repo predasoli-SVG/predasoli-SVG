@@ -86,9 +86,9 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 | Projeto | Descrição | Tecnologias |
 |:---:|:---|:---:|
 | 🎓 **SENAI+** | Projeto desenvolvido durante minha formação | HTML • CSS • JS • Node.js • SQL |
-| 🧪 **Indústria Química** | Projeto para praticar desenvolvimento Web | HTML • CSS • Bootstrap |
-| 🎨 **Projeto Bootstrap** | Projeto focado em layouts e componentes | HTML • CSS • Bootstrap |
-| 🚩 **Flag Quest** | Projeto para praticar lógica e JavaScript | HTML • CSS • JavaScript |
+|  **Indústria Química** | Projeto para praticar desenvolvimento Web | HTML • CSS • Bootstrap |
+|  **Projeto Bootstrap** | Projeto focado em layouts e componentes | HTML • CSS • Bootstrap |
+|  **Flag Quest** | Projeto para praticar lógica e JavaScript | HTML • CSS • JavaScript |
 
 > 💡 **Dica:** depois substitua os nomes acima pelos links dos seus repositórios.
 
