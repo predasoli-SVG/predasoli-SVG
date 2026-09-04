@@ -3,8 +3,12 @@
 <!-- ================================================= -->
 <!-- BANNER -->
 
-<img width="<img width="1607" height="979" alt="ChatGPT Image 4 de set  de 2026, 09_21_24" src="https://github.com/user-attachments/assets/6a7bfd56-62aa-44ee-ae81-c4f583d4fe87" />
-" src="" />
+<div align="center">
+
+<img src="<img width="1607" height="979" alt="ChatGPT Image 4 de set  de 2026, 09_21_24" src="https://github.com/user-attachments/assets/5a2aaac1-ce9e-4f20-b17a-c5d4cab027c6" />
+" width="100%">
+
+</div>
 <!-- APRESENTAÇÃO -->
 
 # 👋 Olá! Eu sou o Enzo Predasoli
@@ -19,9 +23,6 @@
   Estudante de Desenvolvimento de Sistemas no SENAI-SP,
   interessado em programação e desenvolvimento de projetos.
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Sistemas;Programação+%7C+Web+%7C+Tecnologia;Aprendendo+e+criando+projetos;Sempre+evoluindo+%F0%9F%9A%80" />
-
 </div>
 
 ---
