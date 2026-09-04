@@ -10,9 +10,6 @@
 </div>
 
 # 👋 Olá! Eu sou o Enzo Predasoli
-<!-- APRESENTAÇÃO -->
-
-# 👋 Olá! Eu sou o Enzo Predasoli
 
 ...
 
@@ -113,15 +110,4 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 <!-- ================================================= -->
 <!--                    🎯 OBJETIVOS                  -->
 <!-- ================================================= -->
-
-## 🎯 Meus objetivos
-
-```text
-📚 Aprender cada vez mais sobre programação
-💻 Criar projetos reais
-🧠 Melhorar minha lógica de programação
-🌐 Evoluir no desenvolvimento Web
-🚀 Construir um portfólio profissional
-🎓 Continuar minha formação
-💼 Conquistar minha primeira oportunidade na área
 
