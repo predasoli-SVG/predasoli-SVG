@@ -84,13 +84,12 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez melhores e desenvol
 Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 
 | Projeto | Descrição | Tecnologias |
+ Projetos desenvolvidos durante minha formação
 |:---:|:---|:---:|
-| 🎓 **SENAI+** | Projeto desenvolvido durante minha formação | HTML • CSS • JS • Node.js • SQL |
-|  **Indústria Química** | Projeto para praticar desenvolvimento Web | HTML • CSS • Bootstrap |
-|  **Projeto Bootstrap** | Projeto focado em layouts e componentes | HTML • CSS • Bootstrap |
-|  **Flag Quest** | Projeto para praticar lógica e JavaScript | HTML • CSS • JavaScript |
+| 🎓 **SENAI+** |  https://github.com/predasoli-SVG/Atividade-Back-end | HTML • CSS  |
+| 🎓 **SENAI+** |  https://github.com/predasoli-SVG/Sobre-mim | HTML • CSS  |
 
-> 💡 **Dica:** depois substitua os nomes acima pelos links dos seus repositórios.
+
 
 ---
 
