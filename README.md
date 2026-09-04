@@ -77,7 +77,7 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez melhores e desenvol
 <!--                   🚀 PROJETOS                    -->
 <!-- ================================================= -->
 
-## 🚀 Meus Projetos
+## Meus Projetos!
 
 Aqui estão alguns dos projetos que desenvolvi durante minha formação em Desenvolvimento de Sistemas:
 
