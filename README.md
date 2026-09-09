@@ -82,7 +82,8 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez melhores e desenvol
 Aqui estão alguns dos projetos que desenvolvi durante minha formação em Desenvolvimento de Sistemas:
 
 | Projeto | Descrição | Tecnologias |
-|:---:|:---|:---:|
+|:---:|:---|:---:|:---:|
+| 🎓 **[Atividade Back-end](https://github.com/predasoli-SVG/Atividade-Back-end)** | Projeto Principal (demonstrativo). | HTML • CSS • JS|
 | 🎓 **[Atividade Back-end](https://github.com/predasoli-SVG/Atividade-Back-end)** | Projeto desenvolvido durante meus estudos de Back-End. | HTML • CSS |
 | 👨‍💻 **[Sobre Mim](https://github.com/predasoli-SVG/Sobre-mim)** | Projeto criado para apresentar informações sobre mim e praticar desenvolvimento Web. | HTML • CSS |
 
